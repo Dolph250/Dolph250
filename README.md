@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dolph250
 - 👀 I’m interested in Software Development and Embedded systems
-- 🌱 I’m currently CS
+- 🌱 I’m currently pursuing CS
 - 💞️ I’m looking for a freelancing work
 - 📫 How to reach me ...
 
